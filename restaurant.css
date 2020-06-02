@@ -1,0 +1,178 @@
+
+
+
+
+.middle{
+    background-image: url("food.jpg");
+    position: absolute;
+    top:65px;
+    left:300px;
+    right:300px;
+    bottom:520px;
+    color:black;
+    margin-top: 10px;
+    font-size:1px;
+    font-weight: 400;
+    
+
+
+}
+.under{
+color:red;
+}
+
+.bar{
+    margin-top:450px;
+    margin-left:300px;
+    margin-right:300px;
+}
+.time{
+position: absolute;
+color:black;
+Margin-top:200px;
+Margin-left:730px;
+background-color: rgb(77, 248, 77);
+border-radius: 5px;
+
+
+}
+.side{
+    position: absolute;
+    color:rgb(208, 255, 0);
+    font-weight: 400;
+    margin-left: 1455px;
+    margin-right:0px;
+    margin-top:380px;
+    
+}
+.below{
+    margin-left: 400px;
+    background-color: whitesmoke;
+    margin-right: 850px;
+}
+.search{
+    margin-top:10px;
+    margin-left: 40px;
+    margin-right:50px;
+    height: 130px;
+    
+}
+.right{
+    top:578px;
+    height:150px;
+    width:440px;
+    left:1080px;
+    position:absolute;
+    
+   
+    color:red;
+    background-color: whitesmoke
+}
+.mm{
+    background-color:white
+    
+    
+}
+.bb{
+    margin-left: 50px;
+}
+.vv{
+    margin-left: 50px;
+}
+.best{
+    margin-left:400px;
+    margin-top: 10px;
+    
+}
+.imtext{
+    position: relative;
+    background-color: yellow;
+    margin-left:400px;
+    margin-right: 0px;
+
+    
+}
+.col-md-4{
+    background-color: teal;
+    
+    
+
+}
+.pp{
+  margin-top:135px;
+  margin-left:400px; 
+  margin-right:1200px; 
+}
+.tt{
+    position: absolute;
+    top:880px;
+    margin-left:730px; 
+    margin-right:870px;  
+    bottom:1100px;
+}
+.item{
+    position: absolute;
+    background-color:grey;
+    margin-left:1080px;
+    margin-right:60px;
+    top:770px
+}
+.chart{
+    background-color: whitesmoke;
+    margin-left: 50px;
+    margin-right:50px;
+}
+.ou{
+    margin-left: 50px;
+    
+}
+.but{
+   
+    margin-left:150px;
+}
+.ch{
+    margin-left:25px;
+}
+.pt{
+position:absolute;
+color: gray;
+margin-left:160px;
+top:1190px;
+}
+.chicken{
+    margin-right:450px;
+}
+.addd{
+position:absolute;
+margin-left: 850px;
+top:15px;
+right:20px;
+
+}
+.all{
+    background-color: whitesmoke;
+}
+.appp{
+    margin-left: 230px;
+}
+.kt{
+    position:absolute;
+    color: gray;
+    margin-left:120px;
+    top:1500px;  
+}
+.operate{
+  padding-top:10px;
+
+margin-left: 700px;
+margin-right: 720px;
+}
+.nt{
+    margin-left:140px;
+}
+.nt:hover{
+    color:blue;
+}
+.work{
+    background-color:white;
+}

@@ -1,0 +1,76 @@
+.all{
+    margin-left:300px;
+    margin-right:300px;
+    
+}
+input[type="text"]
+{
+    width:400px;
+    height:50px;
+    border:none;
+}
+input[type="text"]:focus{
+    border:3px solid rgb(137, 137, 236);
+    transition:0.2s ease;
+}
+.topnav{
+    position: relative;
+    background-color:white;
+    overflow: hidden;
+    box-shadow:0 0px 1px 0 black;
+    transition:0.2s ease;
+
+    
+}
+
+.topnav a{
+    color:black;
+    float:center;
+    cursor:pointer;
+    
+}
+body{
+    background-color:whitesmoke ;
+}
+.mid{
+    left:500px;
+
+}
+.pic{
+    margin-left: 1210px;
+
+}
+.pict{
+       
+       
+    
+        margin-bottom:30px;
+}
+.member{
+    margin-top:20px;
+    margin-left:530px;
+    
+
+}
+.butn{
+    margin-left:552px;
+    margin-bottom: 10px;
+}
+.fff{
+    margin-left:550px;
+}
+.aaa{
+    margin-left:370px;
+}
+.ppp{
+    margin-left:530px;
+}
+.kkk{
+position: relative;
+border-top:2px solid rgb(233, 230, 230);
+background-color:white;
+border-radius: 2px;
+}
+.ern{
+    margin-left:520px;
+}
